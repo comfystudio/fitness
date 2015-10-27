@@ -1,0 +1,87 @@
+/* CSS Document */
+
+.topheader{
+	float: left;
+    width: 800px;	
+}
+
+#footer{
+	width:800px;
+	float:left;	
+}
+
+#footer ul{
+	width:auto;
+}
+
+.help{
+	width: 800px;
+	float:left;
+	margin: 25px auto;
+}
+
+
+.right-shadow{
+	float:left;	
+}
+
+
+.left-shadow{
+	float:right;
+	margin-right:0px;
+}
+
+.home-right-shadow{
+	float:left;	
+}
+
+.home-left-shadow {
+	float:right;
+	margin-right:0px;
+}
+
+
+#logo{
+	width:0px;
+	background:none;
+	margin:0px;
+}
+
+#menu #home-menu {
+	width:110px;	
+}
+
+#menu #social {
+	width:120px;	
+}
+
+#menu #journal {
+	width:130px;	
+}
+
+#menu #tools {
+	width:110px;	
+}
+
+
+#menu li img {
+	margin: 8px 0 0;	
+}
+
+#menu #mail {
+	width:auto;	
+}
+
+#menu #notifications-alert {
+	float:none;
+	right:-50px;	
+}
+
+.header-options {
+	right:58px;	
+}
+
+
+#active-other {
+	right:58px;	
+}

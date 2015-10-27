@@ -1,0 +1,17 @@
+/* CSS Document */
+
+.topheader{
+	width:750px;	
+}
+
+#footer{
+	width:750px;	
+}
+
+#footer ul{
+	width:auto;	
+}
+
+.wrapper{
+		overflow-x:auto;	
+}
